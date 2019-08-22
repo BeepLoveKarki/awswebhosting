@@ -5,7 +5,9 @@
    sudo apt update
    
    sudo apt install nginx
-
+ 
+ <br/>
+ <br/.
 
  Step 2 - Checking your Web Server
 
