@@ -2,11 +2,11 @@
 
  ## Step 1 – Installing Nginx
 
-   sudo apt update
+     sudo apt update
    
-   sudo apt install nginx
+     sudo apt install nginx
 
- Step 2 - Checking your Web Server
+ ## Step 2 - Checking your Web Server
 
    systemctl status nginx
 
