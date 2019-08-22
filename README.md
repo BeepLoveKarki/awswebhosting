@@ -1,13 +1,10 @@
 # Deploy website to AWS EC2
 
- Step 1 – Installing Nginx
+ ## Step 1 – Installing Nginx
 
    sudo apt update
    
    sudo apt install nginx
- 
- <br/>
- <br/.
 
  Step 2 - Checking your Web Server
 
